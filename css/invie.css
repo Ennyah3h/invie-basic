@@ -402,6 +402,11 @@ video {
 
   .contacto {
     margin: 0 auto;
+    display: block;
+  }
+
+  .contacto a {
+    display: block;
   }
 
   .formulario {
@@ -410,12 +415,21 @@ video {
     width: 300px;
   }
 
+  .sexo label {
+    display: block;
+  }
+
   .interes label {
     display: block;
+    font-size: 20px;
   }
 
   .col1 {
     margin: 0;
+  }
+
+  input[type="text"] {
+    margin-bottom: 20px;
   }
 
   input[type="text"],
