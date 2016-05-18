@@ -1,0 +1,56 @@
+.guitarras {
+  color: #1f313c;
+  margin-bottom: 60px;
+}
+
+.guitarras h2 {
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.guitarra {
+  margin: 10px 10px 40px 10px;
+  padding: 10px;
+  border: 1px solid #1f313c;
+  border-radius: 8px;
+}
+
+.guitarra.b {
+  height: 190px;
+}
+
+.guitarra ol {
+  padding: 0;
+}
+
+
+.rigth {
+  float: right;
+  position: relative;
+  top: -127px;
+}
+
+.left {
+  float: left;
+  position: relative;
+}
+
+.contenedor-guitarra-a {
+  padding-left: 20px;
+}
+
+.contenedor-guitarra-b {
+  margin-left: 370px;
+  position: relative;
+  bottom: 90px;
+}
+
+.title-a {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+.title-b {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
